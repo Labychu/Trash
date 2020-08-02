@@ -124,7 +124,7 @@ ul a:hover {
         height: 100vh;
         background-color: #2c3ac9;
         top: 80px;
-        left: -100%;
+        left: 200%;
         transition: all 1s;
     }
     .nav-bar-wrapper ul li {
