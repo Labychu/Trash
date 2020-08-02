@@ -130,7 +130,7 @@ ul a:hover {
     .nav-bar-wrapper ul li {
         display: block;
         text-align: center;
-        left: 0;
+        left: -100%;
     }
     .nav-bar-wrapper ul li a {
         background: none;
@@ -141,6 +141,6 @@ ul a:hover {
         transition-duration: 0.5s;
     }
     #check:checked ~ ul {
-        left: -100%;
+        left: 0;
     }
 }
