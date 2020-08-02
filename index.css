@@ -11,6 +11,7 @@
 body {
     font-family:  Recursive;
     color: white;
+    overflow: hidden;
 }
 
 .nav-bar-wrapper {
@@ -135,6 +136,8 @@ ul a:hover {
     .nav-bar-wrapper ul li a {
         background: none;
         font-size: 20px;
+        padding-top: 0;
+        margin-top: 0px;
     }
     ul li a:hover {
         font-weight: bold;
