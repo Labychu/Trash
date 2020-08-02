@@ -124,13 +124,13 @@ ul a:hover {
         height: 100vh;
         background-color: #2c3ac9;
         top: 80px;
-        left: 0;
+        left: -100%;
         transition: all 1s;
     }
     .nav-bar-wrapper ul li {
         display: block;
         text-align: center;
-        left: -100%;
+        left: 0;
     }
     .nav-bar-wrapper ul li a {
         background: none;
