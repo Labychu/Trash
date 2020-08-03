@@ -59,6 +59,19 @@ a.logo {
     padding: 10px 15px;
 }
 
+.main-banner {
+    background-image: url(https://media.gettyimages.com/photos/discarded-and-polluting-plastics-collected-from-beach-in-north-east-picture-id998263728?s=2048x2048);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+    height: 400px;
+    position: static;
+    text-align: center;
+    font-size: 100px;
+    color: navy;
+    padding: 100px 100px;
+}
+
 ul a:hover {
     background-color: #2c3ac9;
     transition-duration: 0.5s;
